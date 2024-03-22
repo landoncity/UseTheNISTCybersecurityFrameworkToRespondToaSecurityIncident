@@ -1,6 +1,5 @@
 <h1>Use the NIST Cybersecurity Framework to respond to a security incident</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this activity lab, I will create an incident report using the knowledge I've gained about networks throughout this course to analyze a network incident. I will analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). 
